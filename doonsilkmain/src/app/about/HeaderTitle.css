@@ -1,0 +1,26 @@
+.heading{
+    font-size: 2.3rem;
+    font-weight: 600;
+    color: black;
+    line-height: 3.4rem;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image-box{
+  display: grid;
+  margin: auto;
+  border-radius: 7px;
+}
+.align-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.height{
+height: 100vh !important;
+}
+.headerTitle{
+  background-color: #e5e7eb6e
+}
